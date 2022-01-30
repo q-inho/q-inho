@@ -1,5 +1,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=q-inho&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+
+ [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://q-inho.github.io/)
 <!--
 **q-inho/q-inho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
