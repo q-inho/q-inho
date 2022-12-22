@@ -1,8 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=Inho%20Choi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Quantum%20Computing%20&descAlignY=51&descAlign=62)
-
 <p align='center'>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=q-inho&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<img src = "https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=Inho%20Choi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Quantum%20Computing%20&descAlignY=51&descAlign=62">
+
+
+
+<img src = "https://github-readme-stats.vercel.app/api?username=q-inho&show_icons=true&theme=radical&count_private=true">
 
 </p>
 
