@@ -4,7 +4,7 @@
 
 
 
-<img src = "https://github-readme-stats.vercel.app/api?username=q-inho&show_icons=true&theme=radical&count_private=true">
+<img src = "https://github-readme-stats-q-inhos-projects.vercel.app/api?username=q-inho&show_icons=true&theme=radical">
 
 </p>
 
